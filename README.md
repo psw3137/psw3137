@@ -9,9 +9,9 @@
 | 기간 | 프로젝트 | 역할 | 기술 |
 |---|---|---|---|
 | 2026.09 ~ | CCTV 관제 웹 (팀) | 관제 화면 프론트엔드 | React, TypeScript |
-| 2026.03 ~ 2026.10 | [SWBOT](https://github.com/psw3137/SWBOT-discord-voice-tts) — 내 목소리 TTS 디스코드 봇 | 개인 | Python, discord.py, GPT-SoVITS |
+| 2026.03 ~ 2026.10 | [SWBOT](https://github.com/psw3137/SWBOT-discord-voice-tts) — 특정 목소리 TTS 디스코드 봇 | 개인 | Python, discord.py, GPT-SoVITS |
 | 2026.03 ~ 2026.06 | [골프 스윙 AI 코칭 앱](https://github.com/SH-L1/GolfSimulation) — 졸업작품 (3명) | 앱 전체, API 명세, Unity 연동 | React Native, FastAPI, Unity |
-| 2026.03 | [DHBOT](https://github.com/psw3137/DHBOT-discord-chatbot) — 친구 말투 모방 디스코드 봇 | 개인 | Node.js, Qwen2.5 QLoRA |
+| 2026.03 | [DHBOT](https://github.com/psw3137/DHBOT-discord-chatbot) — 말투 모방 디스코드 봇 | 개인 | Node.js, Qwen2.5 QLoRA |
 | 2026.02 ~ 2026.03 | [NutriTrend](https://github.com/psw3137/nutritrend-dashboard) — 식품 영양성분 대시보드 | 개인 | Next.js, Claude API |
 | 2025.11 ~ 2025.12 | [Smore](https://github.com/psw3137/Smore) — 숏폼 챌린지 모아보기 앱 | 개인 (기획·서버·앱·배포) | Express, MySQL, React Native |
 | 2025.11 | [스크린골프 매출 대시보드](https://github.com/psw3137/Dashboradproject) — 수업 팀 프로젝트 (4명) | 차트 시각화, 코드 통합 | React, Express, MongoDB |
